@@ -8,6 +8,7 @@ namespace ConsoleApp4
         {
             int a = 10;
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
             Console.Read();
             Console.WriteLine(a);
         }
